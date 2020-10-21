@@ -10,7 +10,7 @@ namespace HelloDxc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Helloo Dxc");
+            Console.WriteLine("Hello Dxc");
             Console.WriteLine("Write the first integer:");
             int first = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Write the second integer:");
