@@ -21,8 +21,7 @@ namespace HelloDxc
             int results = first / three * second;
             Console.WriteLine($"The result is {result}");
             Console.WriteLine($"The result is {results}");
-            Console.WriteLine($"The result is {result}");
-            Console.WriteLine($"The result is {results}");
+          
             Console.ReadKey();
         }
     }
